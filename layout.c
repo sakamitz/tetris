@@ -326,7 +326,7 @@ void dispHelpWindow()
     static char* developers[] =
     {
         "By C Group 23 - (in alphabetical order)",
-        "Shaolin Huang",
+        "Shaoqi Huang",
         "Fanjie Ruan",
         "Xiangnan Yang"
     };
