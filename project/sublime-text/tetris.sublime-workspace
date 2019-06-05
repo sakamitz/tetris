@@ -1,0 +1,1422 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Displ",
+				"DisplayClear\t(graphics.c)"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"el",
+				"eliminated"
+			],
+			[
+				"tet",
+				"tetris"
+			],
+			[
+				"fla",
+				"flagSaved"
+			],
+			[
+				"TM",
+				"TM_DOWN\t(tetris.c)"
+			],
+			[
+				"TM_",
+				"TM_DOWN\t(tetris.h)"
+			],
+			[
+				"New",
+				"NewPointer"
+			],
+			[
+				"reco",
+				"recordFile"
+			],
+			[
+				"stru",
+				"struct"
+			],
+			[
+				"DIs",
+				"DisplayClear\t(main.c)"
+			],
+			[
+				"struc",
+				"struct\t(tetris.h)"
+			],
+			[
+				"N",
+				"NAMELEN"
+			],
+			[
+				"flo",
+				"flow.h\t(main.c)"
+			],
+			[
+				"file",
+				"fileIO.h\t(fileIO.c)"
+			],
+			[
+				"tetris",
+				"tetris.h\t(main.c)"
+			],
+			[
+				"ga",
+				"gameName"
+			],
+			[
+				"game",
+				"gameResume"
+			],
+			[
+				"SetP",
+				"SetPenColor"
+			],
+			[
+				"prev",
+				"prevColor"
+			],
+			[
+				"gam",
+				"gameOver"
+			],
+			[
+				"ON_R",
+				"ON_RECORD\t(flow.h)"
+			],
+			[
+				"ON_RE",
+				"ON_RECORD\t(interact.c)"
+			],
+			[
+				"ON_S",
+				"ON_SAVE"
+			],
+			[
+				"help",
+				"helpMsg"
+			],
+			[
+				"tetri",
+				"tetrimino"
+			],
+			[
+				"contr",
+				"controlKeys\t(layout.h)"
+			],
+			[
+				"type",
+				"typedef\t(tetris.h)"
+			],
+			[
+				"usePre",
+				"usePredefinedButtonColors"
+			],
+			[
+				"butt",
+				"buttonWidth"
+			],
+			[
+				"Dra",
+				"DrawTextString"
+			],
+			[
+				"lG",
+				"labelGap"
+			],
+			[
+				"MsgBoxRes",
+				"MsgBoxRestart\t(main.c)"
+			],
+			[
+				"int",
+				"interact.o"
+			],
+			[
+				"interac",
+				"interact.h\t(interact.c)"
+			],
+			[
+				"err",
+				"errName"
+			],
+			[
+				"MSL",
+				"MsgBoxLoadFail\t(widgets.c)"
+			],
+			[
+				"ch",
+				"choice"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"MSG",
+				"MsgBoxLoaded\t(widgets.c)"
+			],
+			[
+				"start",
+				"startTimer"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"MaxC",
+				"MaxCoordX\t(tetris.c)"
+			],
+			[
+				"Sa",
+				"SaveGame\t(fileIO.c)"
+			],
+			[
+				"wiw",
+				"winwidth"
+			],
+			[
+				"widt",
+				"widthOfButtons"
+			],
+			[
+				"wid",
+				"widthByPrompts"
+			],
+			[
+				"bo",
+				"boxWidthByPrompts"
+			],
+			[
+				"sid",
+				"sideGap"
+			],
+			[
+				"MsgB",
+				"MsgBoxSave\t(widgets.c)"
+			],
+			[
+				"box",
+				"boxWidthByButtons"
+			],
+			[
+				"boxW",
+				"boxWidthByPrompts"
+			],
+			[
+				"Tex",
+				"TextStringWidth"
+			],
+			[
+				"Mo",
+				"MovePen"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"wi",
+				"winwidth"
+			],
+			[
+				"but",
+				"buttons"
+			],
+			[
+				"whei",
+				"winheight"
+			],
+			[
+				"ON_P",
+				"ON_PLAYING"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"Hol",
+				"HoldBlockY\t(tetris.h)"
+			],
+			[
+				"coll",
+				"collisionCheck"
+			],
+			[
+				"gra",
+				"graphics.h\t(main.c)"
+			],
+			[
+				"can",
+				"cancelTimer"
+			],
+			[
+				"Add",
+				"AddCoord"
+			],
+			[
+				"AD",
+				"AddCoord"
+			],
+			[
+				"co",
+				"coord"
+			],
+			[
+				"fall",
+				"falling"
+			],
+			[
+				"sta",
+				"statu\t(tetris.h)"
+			],
+			[
+				"set",
+				"setGameStatu"
+			],
+			[
+				"next",
+				"nextInFrm"
+			],
+			[
+				"Ini",
+				"InitConsole\t(demoGuiAll.c)"
+			],
+			[
+				"get",
+				"getNext\t(tetris.c)"
+			],
+			[
+				"TTO",
+				"TET_O"
+			],
+			[
+				"ON",
+				"ON_PAUSE"
+			],
+			[
+				"Ga",
+				"GameStatu"
+			],
+			[
+				"gameS",
+				"gameStatus"
+			],
+			[
+				"GetFo",
+				"GetFontHeight"
+			],
+			[
+				"TFl",
+				"TimerFallingHandler"
+			],
+			[
+				"b",
+				"b.coord"
+			],
+			[
+				"MY",
+				"MaxCoordY"
+			],
+			[
+				"de",
+				"default\t(imgui.c)"
+			],
+			[
+				"str",
+				"struct\tstruct"
+			],
+			[
+				"tetB",
+				"tetBlock"
+			],
+			[
+				"TETI",
+				"TET_I"
+			],
+			[
+				"GST",
+				"GameStatu"
+			],
+			[
+				"GS",
+				"GameStatu\t(tetris.h)"
+			],
+			[
+				"GameSta",
+				"gameStatu"
+			],
+			[
+				"TF",
+				"TimerFallingHandler\t(tetris.h)"
+			],
+			[
+				"L",
+				"Light\t(test.c)"
+			],
+			[
+				"w",
+				"winheight"
+			],
+			[
+				"whe",
+				"windowHeight\t(graphics.c)"
+			],
+			[
+				"ww",
+				"winwidth"
+			],
+			[
+				"widg",
+				"widgets.h\t(widgets.c)"
+			],
+			[
+				"dispSt",
+				"dispStartMenu\t(widgets.c)"
+			],
+			[
+				"coord",
+				"coord"
+			],
+			[
+				"coor",
+				"coordToInch\t(tetris.c)"
+			],
+			[
+				"dr",
+				"drawLabel"
+			],
+			[
+				"TE",
+				"TESTBIN"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"ne",
+				"nextX"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"di",
+				"digitToInt"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"wh",
+				"whatTimeIsIt"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"o",
+				"otherwise"
+			],
+			[
+				"inat",
+				"instance\tInstance"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"an",
+				"annDay\t(a.hs)"
+			],
+			[
+				"In",
+				"Integer"
+			],
+			[
+				"m",
+				"m"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"ge",
+				"genPower"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"in",
+				"input_ratio"
+			],
+			[
+				"cur",
+				"curp"
+			],
+			[
+				"cu",
+				"curp1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/run/shm/code/tetris/main.c",
+			"settings":
+			{
+				"buffer_size": 5031,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/run/shm/code/tetris/tetris.c",
+			"settings":
+			{
+				"buffer_size": 4744,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/run/shm/code/tetris/tetris.h",
+			"settings":
+			{
+				"buffer_size": 1486,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/run/shm/code/tetris/flow.c",
+			"settings":
+			{
+				"buffer_size": 3112,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/run/shm/code/tetris/flow.h",
+			"settings":
+			{
+				"buffer_size": 727,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/run/shm/code/tetris/fileIO.c",
+			"settings":
+			{
+				"buffer_size": 3086,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/run/shm/code/tetris/fileIO.h",
+			"settings":
+			{
+				"buffer_size": 735,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/run/shm/code/tetris/interact.c",
+			"settings":
+			{
+				"buffer_size": 5541,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/run/shm/code/tetris/interact.h",
+			"settings":
+			{
+				"buffer_size": 449,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/run/shm/code/tetris/layout.c",
+			"settings":
+			{
+				"buffer_size": 10882,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/run/shm/code/tetris/layout.h",
+			"settings":
+			{
+				"buffer_size": 1244,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/run/shm/code/tetris/README.md",
+			"settings":
+			{
+				"buffer_size": 487,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/run/shm/code/tetris/Makefile",
+			"settings":
+			{
+				"buffer_size": 2202,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"synpy",
+				"Set Syntax: Python3"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 245.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/run/shm/code/tetris"
+	],
+	"file_history":
+	[
+		"/run/shm/code/tetris/project/dev-cpp/Makefile.win",
+		"/run/shm/code/tetris/lib/simpleGUI/imgui.c",
+		"/run/shm/code/tetris/layout.h",
+		"/run/shm/code/tetris/layout.c",
+		"/run/shm/code/tetris/interact.h",
+		"/run/shm/code/tetris/interact.c",
+		"/run/shm/code/tetris/fileIO.h",
+		"/run/shm/code/tetris/fileIO.c",
+		"/run/shm/code/tetris/flow.h",
+		"/run/shm/code/tetris/flow.c",
+		"/run/shm/code/tetris/tetris.h",
+		"/run/shm/code/tetris/tetris.c",
+		"/run/shm/code/tetris/main.c",
+		"/run/shm/code/tetris/Makefile.win",
+		"/run/shm/code/tetris/Makefile",
+		"/run/shm/code/tetris/lib/libgraphics/graphics.c",
+		"/run/shm/code/tetris/lib/libgraphics/graphics.h",
+		"/run/shm/code/tetris/saves/record",
+		"/run/shm/code/tetris/saves/q.save",
+		"/run/shm/code/tetris/structure.h",
+		"/run/shm/code/tetris/fileio.c",
+		"/run/shm/code/tetris/fileio.h",
+		"/run/shm/code/LibGraphics/democode/demoGuiAll.c",
+		"/run/shm/code/tetris/widgets.h",
+		"/run/shm/code/tetris/widgets.c",
+		"/run/shm/code/scheme.c-local/Makefile",
+		"/run/shm/code/tetris/control.h",
+		"/run/shm/code/tetris/control.c",
+		"/run/shm/code/tetris/lib/libgraphics/extgraph.h",
+		"/run/shm/code/tetris/test",
+		"/run/shm/code/tetris/test.c",
+		"/run/shm/code/tetris/lib/libgraphics/genlib.h",
+		"/run/shm/code/tinytetris-commented.cpp",
+		"/run/shm/isee/avoid_ultrasonic-YB.ino",
+		"/run/shm/code/tetris-master/Makefile",
+		"/run/shm/code/tetris-master/main.c",
+		"/run/shm/SDL_mixer/configure",
+		"/run/shm/code/mal-master/rust/printer.rs",
+		"/run/shm/code/mal-master/haskell/Readline.hs",
+		"/run/shm/code/LibGraphics/democode/igp_char.c",
+		"/run/shm/code/LibGraphics/democode/igp_keyboard.c",
+		"/run/shm/code/terris-example/Tetris.c",
+		"/run/shm/code/tetris/lib/libgraphics/gcalloc.h",
+		"/run/shm/code/tetris/lib/libgraphics/strlib.h",
+		"/run/shm/code/tetris/lib/libgraphics/genlib.c",
+		"/run/shm/code/tetris/.gitignore",
+		"/run/shm/code/LibGraphics/democode/igp_timer.c",
+		"/run/shm/code/tetris/tetris.sublime-workspace",
+		"/run/shm/code/tetris/README.md",
+		"/run/shm/code/tetris-master/tetris.h",
+		"/run/shm/code/terris-example/Drawing.c",
+		"/home/linuxmint/Documents/school/subject/c-prog/project-1/src/sudoku.c",
+		"/home/linuxmint/Documents/school/subject/c-prog/project-2/src/polynomialMain.c",
+		"/home/linuxmint/Documents/school/subject/c-prog/project-2/src/PolynomialADT.c",
+		"/home/linuxmint/Documents/school/subject/c-prog/project-2/src/PolynomialADT.h",
+		"/home/linuxmint/Documents/school/subject/c-prog/project-3/projectGUI/src/painter.c",
+		"/run/shm/code/terris-example/Timer.c",
+		"/run/shm/code/tetris-master/tetris.c",
+		"/run/shm/code/LibGraphics/democode/demoGuiMenu.c",
+		"/dev/shm/code/tetris/.gitignore",
+		"/dev/shm/code/tetris/.gitattributes",
+		"/run/shm/code/LibGraphics/democode/igp_mouse.c",
+		"/home/linuxmint/Documents/school/subject/c-prog/project-3/projectGUI/Makefile",
+		"/run/shm/code/tetris/README",
+		"/run/shm/code/tetris/lib/linkedlist.c",
+		"/run/shm/code/tetris/lib/linkedlist.h",
+		"/run/shm/code/c/tetris-master/main.c",
+		"/run/shm/code/c/tetris-master/tetris.c",
+		"/run/shm/code/c/LibGraphics/democode/demoGuiAll.c",
+		"/run/shm/code/c/terris-example/Timer.c",
+		"/run/shm/code/c/terris-example/Util.c",
+		"/run/shm/code/c/tetris/lib/enhancedGUI.h",
+		"/run/shm/code/c/tetris/lib/linkedlist.h",
+		"/run/shm/code/c/tetris/lib/linkedlist.c",
+		"/run/shm/code/c/tetris/lib/simpleGUI/imgui.c",
+		"/run/shm/code/c/tetris/lib/simpleGUI/imgui.h",
+		"/run/shm/code/c/tetris-master/tetris.h",
+		"/run/shm/code/c/tetris-master/util.c",
+		"/run/shm/code/c/tetris-master/util.h",
+		"/dev/shm/a.hs",
+		"/run/shm/isee/sketch_apr19a/思考.md",
+		"/run/shm/isee/sketch_apr12a/2",
+		"/run/shm/isee/sketch_apr12a/数据.md",
+		"/run/shm/isee/sketch_apr12a/sketch_apr12a.ino",
+		"/home/linuxmint/Documents/code/haskell/note/function.md",
+		"/home/linuxmint/Documents/code/haskell/note/type-define.md",
+		"/dev/shm/b.hs",
+		"/run/shm/anyconnect-linux64-4.6.02074/vpn/vpn_install.sh",
+		"/home/linuxmint/Documents/code/haskell/excercise/fold.hs",
+		"/dev/shm/a.c",
+		"/run/shm/code/sr/architecture.py",
+		"/run/shm/code/sr/net_interp.py",
+		"/run/shm/a.c",
+		"/opt/arduino-1.8.8/libraries/RobotIRremote/library.properties",
+		"/run/shm/code/sr/test.py",
+		"/home/linuxmint/.cache/.fr-kjAkQm/3-Largest prime factor.py",
+		"/run/shm/1.nh",
+		"/dev/shm/LocalReadOnline.asp",
+		"/run/shm/a.py",
+		"/dev/shm/a.py",
+		"/home/linuxmint/Documents/code/c++/samples/MergeSort.c",
+		"/dev/shm/*REPL* [haskell]",
+		"/run/shm/*REPL* [haskell]",
+		"/dev/shm/code/sr/a.hs",
+		"/run/shm/code/pytorch-book-master/chapter2-快速入门/chapter2: PyTorch快速入门.ipynb",
+		"/home/linuxmint/.bash_history",
+		"/home/linuxmint/.bashrc",
+		"/home/linuxmint/.config/sublime-text-3/Packages/User/Haskell.sublime-settings",
+		"/run/shm/a.hs",
+		"/dev/shm/地址",
+		"/dev/shm/b.png",
+		"/home/linuxmint/.cache/.fr-1pgPWs/OpenMIPS/Chapter8/AsmTest/Test1/inst_rom.asm",
+		"/home/linuxmint/.cache/.fr-qxwinR/OpenMIPS/Chapter2/inst_fetch.v",
+		"/run/shm/2012/hou/hou.c",
+		"/run/shm/2012/hou/chk.txt",
+		"/run/shm/2012/hou/ansi.txt",
+		"/run/shm/a.pro",
+		"/run/shm/a.pl",
+		"/home/linuxmint/.config/sublime-text-3/Packages/User/syntax/Prolog/Prolog.tmLanguage",
+		"/home/linuxmint/.config/sublime-text-3/Packages/User/syntax/Prolog/Prolog.YAML-tmLanguage",
+		"/run/shm/code/src/PolynomialADT.c",
+		"/run/shm/opencv-4.1.0/build/3rdparty/libjpeg-turbo/jconfig.h",
+		"/run/shm/.hmcl.json",
+		"/etc/rc.local",
+		"/home/linuxmint/.bash_logout",
+		"/dev/shm/README"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ON_FAIL",
+			"saveGame",
+			"strBuffer",
+			"Timer",
+			"itoa",
+			"SubCoord",
+			"AddCoord",
+			"current",
+			"p",
+			"headerGap",
+			"initPrompt",
+			"prompt",
+			"header",
+			"errName",
+			"left",
+			"bool",
+			"flow",
+			"ON_FAIL",
+			"ON_SUCCESS",
+			"gameName",
+			"errName",
+			"MsgBoxSuccess",
+			"pencolor",
+			"button",
+			"wlist",
+			"mnu",
+			"menuList",
+			"exit",
+			"backY",
+			"backX",
+			"buttonY",
+			"buttonX",
+			"buttonY",
+			"buttonX",
+			"buttonHeight",
+			"buttonWidth",
+			"githubHeight",
+			"githubWidth",
+			"buttonHeight",
+			"buttonWidth",
+			"githubWidth",
+			"GenUUID",
+			"GenUU",
+			"buttonwidth",
+			"labelY",
+			"labelX",
+			"button",
+			"ON_START",
+			"widgets",
+			"mnuEnd",
+			"interact",
+			"GameStatu",
+			"fwrite",
+			"NOTFILL",
+			"widthByPrompts",
+			"WidthByButtons",
+			"widthByButtons",
+			"boxWidthByButtons",
+			"buttonHeight",
+			"MsgBox",
+			"I",
+			"i",
+			"boxWidthByButtons",
+			"offset",
+			"get",
+			"drawRectangle",
+			"FILL",
+			"drawRectangle",
+			"1",
+			"drawRectangle",
+			"0",
+			"drawRectangle",
+			"GameStatu",
+			"dir",
+			"    \n",
+			"NextBlockY",
+			"18",
+			"13",
+			".",
+			"nextBlock",
+			"hold",
+			"next",
+			"void addScore();",
+			"y_",
+			"InBound",
+			"x",
+			"j",
+			"i",
+			"x",
+			"MOVABLE",
+			"b",
+			"FlipCoord",
+			"b->",
+			"[^\\(]\\b(v)\\b[^\\)]",
+			"v",
+			"dispStartMenu",
+			"dispHelpMenu",
+			"dispRankMenu",
+			"dispStartMenu",
+			"frmRankX+0.2",
+			"rankWidth",
+			"rankHeight",
+			"rankWidth",
+			"\\bSIZE\\b",
+			"\\bsize\\b",
+			"fontTable",
+			"\\bsize\\b",
+			"size",
+			"fontTa",
+			"font",
+			"MaxCoordX",
+			"0.30",
+			"col",
+			"row",
+			"col",
+			"row",
+			"block",
+			"blockType[block.type]",
+			"other",
+			"tetCoord",
+			"\\r",
+			"\\n",
+			"gameStatu",
+			"pressed",
+			"state",
+			"int",
+			"penY",
+			"penX"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": true,
+		"replace_history":
+		[
+			"GenUIID",
+			"\\(\\1\\)",
+			"\\n",
+			".-",
+			".+",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/run/shm/code/tetris/main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5031,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/run/shm/code/tetris/tetris.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/run/shm/code/tetris/tetris.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								360,
+								360
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/run/shm/code/tetris/flow.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/run/shm/code/tetris/flow.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/run/shm/code/tetris/fileIO.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3086,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/run/shm/code/tetris/fileIO.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/run/shm/code/tetris/interact.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/run/shm/code/tetris/interact.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/run/shm/code/tetris/layout.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10882,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/run/shm/code/tetris/layout.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/run/shm/code/tetris/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/run/shm/code/tetris/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 45.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "Packages/Haskell/Haskell.sublime-build",
+	"project": "tetris.sublime-project",
+	"replace":
+	{
+		"height": 75.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
